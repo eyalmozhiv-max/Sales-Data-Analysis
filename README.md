@@ -1,24 +1,33 @@
 # Sales-Data-Analysis
-Exploratory Data Analysis using Pandas , Matplotlib and Seaborn
-📊 Sales Data Analysis Project
-Overview:
-This project performs Exploratory Data Analysis (EDA) on a sales dataset to uncover business insights.
 
-Tools Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+###  Overview
+This project performs Exploratory Data Analysis (EDA) on a sales dataset to uncover meaningful business insights related to sales, profit, and category performance.
 
-Key Insights:
-Technology category has highest profit but also high risk
-Furniture category shows frequent losses
-Small transactions contribute significantly to total sales
-Some high-sales orders result in negative profit
 
-Files
-sales_analysis.ipynb 
+###  Key Questions
+- Are high sales always profitable?
+- Which category is the most stable?
+- Which category has the highest risk?
 
-Author
-Eyalmozhi V
+
+###  Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+
+###  Key Insights
+- High sales do not always result in high profit
+- Some high-sales transactions lead to negative profit
+- Technology category has high profit but also high risk
+- Furniture category shows more stable performance
+
+
+###  Files
+- `sales_analysis.ipynb` → Full analysis notebook
+
+
+### Author
+- Eyalmozhi V
